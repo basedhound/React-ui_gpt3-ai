@@ -31,8 +31,6 @@
 
 ## <br/> <a name="features">📝 Features</a>
 
-👉 **Robust Authentication**: Secure and reliable user login and registration system.
-
 👉 React functional reusable components.
 
 👉 React file and folder structure.
