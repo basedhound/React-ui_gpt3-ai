@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://gpt3-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">GPT3 UI</h3>
 </div>
@@ -20,13 +20,13 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Flexbox** is a CSS layout module that simplifies the design and alignment of items within a container, allowing for flexible and responsive layouts without relying on floats or positioning hacks.
+- [**Flexbox**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) is a CSS layout module that simplifies the design and alignment of items within a container, allowing for flexible and responsive layouts without relying on floats or positioning hacks.
 
-- **CSS Grid Layout**, or **Grid**, provides a powerful two-dimensional layout system for designing complex web layouts with precise control over rows, columns, and spacing, ideal for creating responsive and structured designs.
+- [**Grid**](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) (CSS Grid Layout), provides a powerful two-dimensional layout system for designing complex web layouts with precise control over rows, columns, and spacing, ideal for creating responsive and structured designs.
 
-- **CSS BEM Model** is a naming convention that organizes CSS classes into Blocks (standalone components), Elements (parts of blocks), and Modifiers (variations or states). It promotes modular and maintainable CSS code by enhancing clarity and reusability in styling web components.
+- [**BEM Model**](https://css-tricks.com/bem-101/) is a naming convention that organizes CSS classes into Blocks (standalone components), Elements (parts of blocks), and Modifiers (variations or states). It promotes modular and maintainable CSS code by enhancing clarity and reusability in styling web components.
 
 
 ## <br/> <a name="features">📝 Features</a>
